@@ -1,11 +1,11 @@
 {
-  "version": "0.1.38",
+  "version": "0.1.39",
   "notes": "",
-  "pub_date": "2026-06-04T20:38:04.110Z",
+  "pub_date": "2026-06-05T19:32:36.514Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTY09YZ2IxdmpIcHBPejE3eENtalNYcGhQNktzSTZWSlBnL08vSlFVcFBPQkxLT0RCeFBjMlV6ald4OFptMm9sK2Y3WUY0aUJTYUpYRmNZa21sZWZYU2k2b3BHazQ3MXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjA1NDgyCWZpbGU6U3VwcmVtZV8wLjEuMzhfeDY0LXNldHVwLmV4ZQpPZEUxNHFrNmFnWVRheWtxWERsTWU5TitpNlJNL3NRU09Hejc3R3IremF0R0ZXbnFJVWRpMkVJSkNIVlBEZFdPb0tiK1VJanA2UzFpWnV5QWlaNHlEZz09Cg==",
-      "url": "https://raw.githubusercontent.com/KamelGherbi/caisse-v2-updates/main/Supreme_0.1.38_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTY09YZ2IxdmpIcHRoMEg2a04yTDVSVFpiK1FSM012VHJmUDJtaEQzdm5sYkY1a3E5b1R3WWx2UVJ2emVnV0gwbU1LajQxZWVaRjRWUW9Vd0FrQU4yMTNaeVltay94bEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjg3OTU1CWZpbGU6U3VwcmVtZV8wLjEuMzlfeDY0LXNldHVwLmV4ZQpFdXZiaDN4OE5jR1p6REJXNjFXSDI0cDhGa2VWQnBzVGlsSEdQYndwelB1cStlbWgyMUtvQlQwTjlGc3lEVzZCbEFxUHdWUFhDaS81bE1JcHdFcWZCdz09Cg==",
+      "url": "https://raw.githubusercontent.com/KamelGherbi/caisse-v2-updates/main/Supreme_0.1.39_x64-setup.exe"
     }
   }
 }

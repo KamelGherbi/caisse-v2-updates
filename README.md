@@ -1,5 +1,5 @@
-# Supreme POS V2 updater artifacts
+# Supreme POS V2 updater channel
 
-Public artifacts used by the Supreme POS V2 desktop auto-updater.
+Public updater channel for the macOS cashier application. New releases contain signed builds for Mac Intel and Apple Silicon.
 
-This repository intentionally contains only generated updater files (`latest.json`, installer, signature), not the private application source code.
+The application source remains in the private `KamelGherbi/caisse-v2` repository.
